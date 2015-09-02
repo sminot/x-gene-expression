@@ -3,7 +3,7 @@ Reproducing "Sex-Biased Gene Expression and Evolution of the X Chromosome in Nem
 
 This repository will encompass the work needed to reproduce the analysis performed in:
 
-Sarah Elizabeth Albritton, Anna-Lena Kranz, Prashant Rao, Maxwell Kramer, Christoph Dieterich, and Sevinç Ercan, (2014) "Sex-Biased Gene Expression and Evolution of the X Chromosome in Nematodes." Genetics. 197(3): 865-83. doi:  10.1534/genetics.114.163311 PMCID: PMC4096367
+Sarah Elizabeth Albritton, Anna-Lena Kranz, Prashant Rao, Maxwell Kramer, Christoph Dieterich, and Sevinç Ercan, (2014) "_Sex-Biased Gene Expression and Evolution of the X Chromosome in Nematodes_." **Genetics**. 197(3): 865-83. doi:  10.1534/genetics.114.163311 PMCID: PMC4096367
 
 The workflow for this analysis will take the following steps:
 
