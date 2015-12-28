@@ -9,7 +9,7 @@ sex-specific expression.
 
 Background (email from M. Palopoli):
 
-```Cutter (2005) compared genes between briggsae and elegans and (among
+> Cutter (2005) compared genes between briggsae and elegans and (among
 other things) found an elevated rate of evolution for sperm-specific
 genes. He suggested several alternative hypotheses that could not be
 ruled out but might explain this pattern, including: (1) relaxed
@@ -17,7 +17,7 @@ selection on sperm function in these two hermaphroditic lineages; and
 (2) antagonistic coevolution between sperm and oocytes and between the
 sexes in each lineage.
 
-The former should NOT be true for lineages that still have males and
+> The former should NOT be true for lineages that still have males and
 females, such as remanei. However, the latter SHOULD BE EVEN MORE true
 for lineages with males and females, such as remanei. Hence, this
 suggests the simple idea of comparing brenneri-briggsae divergence
@@ -29,9 +29,9 @@ divergences will be greater for male-specific genes. I believe that both
 hypotheses predict that these differences should disappear for genes
 expressed in both sexes.
 
-What needs to be done?
+> What needs to be done?
 
-Need to figure out the degree to which each gene exhibits sex-specific
+> Need to figure out the degree to which each gene exhibits sex-specific
 expression (perhaps using the approach used in Albritton et al.). Also, 
 need to make sure that each gene being compared is a one-to-one ortholog 
 between briggsae and remanei (e.g. reciprocal best blast). Also, best 
@@ -41,11 +41,11 @@ between brenneri and remanei on the one hand, and between brenneri and
 briggsae on the other hand, and compare Ka values. Perhaps use a simple 
 Chi-square test to see whether there is a nonrandom tendency for either 
 type of comparison to result in higher Ka values for genes in different 
-categories (e.g., male-specific vs. expressed in both sexes).```
+categories (e.g., male-specific vs. expressed in both sexes).
 
 Background from S. Minot:
 
-```A parallel goal of this project is to learn how to execute a computational 
+> A parallel goal of this project is to learn how to execute a computational 
 experiment that adheres to a standard of reproducible research. In the 
 traditional biological sciences there is a well-developed set of standards 
 for the steps that must be taken to ensure that an experiment can be 
@@ -57,19 +57,19 @@ fundamental barrier to the advancement of computational biology, and anyone
 working in research (of any sort) should hold themselves and others to a
 standard of reproducibility. 
 
-Reproducibility is also a huge benefit for the advancement of research 
+> Reproducibility is also a huge benefit for the advancement of research 
 within a single research group. As a research question expands and is 
 taken on by more investigators, the projects that are structured in a 
 consistent, reproducible way are going to be much easier to build upon
 and develop. 
 
-All of the specific practices outlined here are not the only way to set
+> All of the specific practices outlined here are not the only way to set
 up a robust research project, but they do use a set of resources and 
 practices that are generally accepted by the research community. Over time
 the specific pieces of software and conventions will surely change, but 
 I am confident that the general approach will be a benefit for anyone 
 who wants to answer questions using computational tools and communicate
-their findings to others. ```
+their findings to others. 
 
 ## Outline
 
