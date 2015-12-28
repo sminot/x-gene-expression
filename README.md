@@ -8,6 +8,7 @@ comparison to the species brenneri) for genes with varying levels of
 sex-specific expression.
 
 Background (email from M. Palopoli):
+
 ```Cutter (2005) compared genes between briggsae and elegans and (among
 other things) found an elevated rate of evolution for sperm-specific
 genes. He suggested several alternative hypotheses that could not be
@@ -43,6 +44,7 @@ type of comparison to result in higher Ka values for genes in different
 categories (e.g., male-specific vs. expressed in both sexes).```
 
 Background from S. Minot:
+
 ```A parallel goal of this project is to learn how to execute a computational 
 experiment that adheres to a standard of reproducible research. In the 
 traditional biological sciences there is a well-developed set of standards 
