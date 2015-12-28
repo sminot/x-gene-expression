@@ -8,7 +8,7 @@ comparison to the species brenneri) for genes with varying levels of
 sex-specific expression.
 
 Background (email from M. Palopoli):
-'''Cutter (2005) compared genes between briggsae and elegans and (among
+```Cutter (2005) compared genes between briggsae and elegans and (among
 other things) found an elevated rate of evolution for sperm-specific
 genes. He suggested several alternative hypotheses that could not be
 ruled out but might explain this pattern, including: (1) relaxed
@@ -40,10 +40,10 @@ between brenneri and remanei on the one hand, and between brenneri and
 briggsae on the other hand, and compare Ka values. Perhaps use a simple 
 Chi-square test to see whether there is a nonrandom tendency for either 
 type of comparison to result in higher Ka values for genes in different 
-categories (e.g., male-specific vs. expressed in both sexes).'''
+categories (e.g., male-specific vs. expressed in both sexes).```
 
 Background from S. Minot:
-'''A parallel goal of this project is to learn how to execute a computational 
+```A parallel goal of this project is to learn how to execute a computational 
 experiment that adheres to a standard of reproducible research. In the 
 traditional biological sciences there is a well-developed set of standards 
 for the steps that must be taken to ensure that an experiment can be 
@@ -67,7 +67,7 @@ practices that are generally accepted by the research community. Over time
 the specific pieces of software and conventions will surely change, but 
 I am confident that the general approach will be a benefit for anyone 
 who wants to answer questions using computational tools and communicate
-their findings to others. '''
+their findings to others. ```
 
 ## Outline
 
